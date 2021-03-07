@@ -1,3 +1,8 @@
+# What's New 
+* Machine learning model for Gender classification using SVM. The notebook file can be located inside the notebook directory.
+
+
+#### Original Documentation
 # FastAPI + Celery for Async ML Inference
 
 ![image](https://img.shields.io/badge/python-3.7-blue)
